@@ -7,7 +7,7 @@ Welcome to my Python Beginner Projects repository.
 
 - Calculator (Simple)
 - Calculator (If-Else)
-- Number Guess Game
+- More projects coming soon...
 
 ## Concepts Used
 
